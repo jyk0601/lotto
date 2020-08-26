@@ -1,0 +1,1 @@
+# lotto by thor
